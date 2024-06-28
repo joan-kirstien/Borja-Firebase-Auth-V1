@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32337360662",
+    "project_id": "borja-firebase-project",
+    "storage_bucket": "borja-firebase-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32337360662:android:224b8c837fb503af10c237",
+        "android_client_info": {
+          "package_name": "com.example.state_change_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hR6U56A0u7LmpffviAvDdiHVVllKzlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
